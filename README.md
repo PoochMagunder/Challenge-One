@@ -19,7 +19,7 @@ Working on this website has taught me a lot about website accessibility standard
 ## Installation
 
 If you follow the link it will take you directly to the webpage:
-<a href="https://poochmagunder.github.io/Challenge-One/"></a>
+<a href="https://poochmagunder.github.io/Challenge-One/">Challenge One Webpage</a>
 
 
 ## Usage
