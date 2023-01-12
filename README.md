@@ -17,7 +17,7 @@ If you follow the link it will take you directly to the webpage:
 
 ## Usage
 
-This website is designed to be used for information about "Search Engine Optimization", "Online Reputation Management", and "Social Media Marketing".
+To use this webpage, you can review the information posted in each section of the page. To get to those sections quicker use the tabs on the top right of the page!
 
 ## Credits
 
@@ -25,6 +25,6 @@ This website is designed to be used for information about "Search Engine Optimiz
 
 ## License
 
-Refer to the repository for the license
+Refer to the LICENSE in the repo.
 
 
