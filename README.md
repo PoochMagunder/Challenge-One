@@ -24,19 +24,11 @@ If you follow the link it will take you directly to the webpage:
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+This website is designed to be used for information about "Search Engine Optimization", "Online Reputation Management", and "Social Media Marketing".
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+<a href="https://www.w3schools.com/html/html_attributes.asp">
 
 ## License
 
